@@ -9,7 +9,7 @@ In addition, a small python program to generate [image file , shutter speed] lis
 
 For more details of OpenCV hdr library, refer to.
 
-[http://docs.opencv.org/master/d3/db7/tutorial_hdr_imaging.html](https://raw.githubusercontent.com/delphinus1024/opencv30hdr/master/LICENSE.txt)
+[http://docs.opencv.org/master/d3/db7/tutorial_hdr_imaging.html](http://docs.opencv.org/master/d3/db7/tutorial_hdr_imaging.html)
 
 For example.
 
